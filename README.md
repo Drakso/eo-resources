@@ -9,7 +9,7 @@
 - **Copernicus Climate Data Store (CDS)**  
   - **Link:** https://cds.climate.copernicus.eu/  
   - **Access:** Web download, CDS API, Python library (cdsapi)  
-  - **Needs account:** Yes (free ECMWF registration)  
+  - **Needs account:** Yes (free registration)  
   - **Data focus:** Climate (reanalysis, projections, historical)  
 
 - **Copernicus Atmosphere Data Store (ADS)**  
@@ -21,7 +21,7 @@
 - **Copernicus Land Data Store (CLDS)**  
   - **Link:** https://land.copernicus.eu/en/clds/  
   - **Access:** Web download, OGC services (WMS/WCS), REST API  
-  - **Needs account:** No  
+  - **Needs account:** Yes (free registration)
   - **Data focus:** Land (land cover, surface parameters)  
 
 - **NASA FIRMS (Fire Information for Resource Management System)**  
